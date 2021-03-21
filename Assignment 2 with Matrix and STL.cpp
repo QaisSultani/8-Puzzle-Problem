@@ -1,5 +1,5 @@
 //		Conceps and Coding By:
-//				-> M Qais Sultani (2018314)
+//				-> M Qais Sultani
 //
 //		This Code need its Two Header files: 'Matrix.h' ; 'Tree.h'.
 //
